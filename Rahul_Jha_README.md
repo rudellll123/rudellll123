@@ -1,185 +1,118 @@
-<!--
-RAHUL JHA — GitHub Profile README
-Style: Dark Neon "Tech Arsenal" (Demo 1)
-This file must be named README.md and live inside a repo named EXACTLY "Rahul-Jha"
-(your GitHub username) for it to render on your profile page.
--->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rahul%20Jha&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%26%20Cloud%20Engineer%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descSize=15" />
-
-<p>
-  <a href="mailto:rj2544@srmist.edu.in"><img src="https://img.shields.io/badge/-EMAIL-333333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-RESUME-7c3aed?style=for-the-badge" /></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/B.Tech%20CSE-CGPA%208.5%2F10-e63946?style=flat-square" />
-  <img src="https://img.shields.io/badge/Graduating-2027-7c3aed?style=flat-square" />
-  <img src="https://img.shields.io/badge/Based%20in-Chennai%2C%20India-2b7a78?style=flat-square" />
-  <img src="https://img.shields.io/badge/Open%20to-Pan--India%20%26%20International%20Travel-0A66C2?style=flat-square" />
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blueviolet&label=Views" />
-</p>
-
-<i>Results-oriented CS student building AI/ML systems, cloud-native applications, and IoT solutions that solve real business problems.</i>
-
-</div>
-
-<br/>
-
-## 👋 About Me
-
-Results-oriented B.Tech CSE student (CGPA: 8.5/10) at SRM Institute of Science and Technology
-with end-to-end experience building AI/ML systems, cloud-native applications, and IoT solutions
-that address real-world business problems. Skilled across cloud platforms, big data pipelines,
-AI-assisted productivity tools, and full-stack development. I bring a client-first mindset, strong
-analytical ability, and a proven capacity to translate complex technical outputs into clear,
-actionable insights. Ready to travel and contribute to enterprise-wide transformation projects.
-
-<br/>
-
-<h3 align="center">&lt;/&gt; TECH ARSENAL &lt;/&gt;</h3>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,html,css,react,nodejs,flask,mongodb,postgresql,mysql,aws,gcp,docker,git,github,linux&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Neo4j%20(Graph%20DB)-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/NLP-4B8BBE?style=flat-square" />
-<img src="https://img.shields.io/badge/LLM%20Evaluation-7c3aed?style=flat-square" />
-<img src="https://img.shields.io/badge/Prompt%20Engineering-e63946?style=flat-square" />
-<img src="https://img.shields.io/badge/Generative%20AI-2b7a78?style=flat-square" />
-<img src="https://img.shields.io/badge/Gemini%20API-8E44AD?style=flat-square&logo=googlegemini&logoColor=white" />
-
-</div>
-
-<br/>
-
-<h3 align="center">&lt;/&gt; CORE CONCEPTS &lt;/&gt;</h3>
+<h1 align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=200&section=header&text=Hi%20There,%20I'm%20Rahul%20Jha%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI/ML%20Engineer%20|%20Backend%20Developer%20|%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=18" />
+</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/DSA-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/Computer%20Networks-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/DBMS-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/OOPs-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/Operating%20Systems-333333?style=flat-square" />
-<img src="https://img.shields.io/badge/Machine%20Learning%20(Supervised%20%26%20Unsupervised)-333333?style=flat-square" />
+  <a href="https://linkedin.com/in/rahuljha174">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Building+with+Python+%26+ML;Exploring+Cybersecurity;1%25+better+every+day+🚀;Open+to+Collaboration!&font=Fira%20Code&center=true&width=520&height=45&color=00C6FF&vCenter=true&size=22" />
+  </a>
 </p>
 
-<br/>
+<p align="center">
+  <a href="https://linkedin.com/in/rahuljha174"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rahuljha019989@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/rudellll123"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-## 🚀 Projects
+<br>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+## 💫 About Me
 
-### 🗺️ RouteWise
-Intelligent delivery & route-optimization platform tackling a real dispatcher problem: manual,
-naive nearest-neighbour planning wastes fuel and time, and orders can't be assigned to the best
-available driver in real time.
+```yaml
+🔭 Currently Working On:   AI/ML projects, backend applications & cybersecurity
+🤝 Open To Collaborate On: AI/ML, cybersecurity & open-source projects
+🆘 Looking For Help With:  advanced Python, machine learning & backend development
+🌱 Currently Learning:     Python, SQL, DSA, machine learning & cybersecurity
+💬 Ask Me About:           Python, SQL, DSA, ML & cybersecurity fundamentals
+⚡ Fun Fact:                I believe in getting 1% better every day
+```
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
-![PostGIS](https://img.shields.io/badge/-PostgreSQL%2FPostGIS-black?style=flat-square&logo=postgresql)
-![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Kubernetes](https://img.shields.io/badge/-Docker%2FK8s-black?style=flat-square&logo=kubernetes)
+<br>
 
-Dijkstra's shortest-path (min-heap) for stop distances · Greedy Nearest-Neighbour + 2-Opt local
-search for multi-stop route ordering · Priority Queue for O(log n) driver-to-order matching · a
-real-time dispatcher dashboard with WebSocket live tracking.
+## 🛠️ Tech Stack
 
-**Impact:** multi-stop routes generated in under 4s for up to 25 stops · targeting 20&ndash;30%
-reduction in distance travelled per driver per day.
+<h4 align="center">Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
-</td>
-<td width="50%" valign="top">
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+</p>
 
-### 🚕 QuickRide
-Real-time ride-hailing & driver-matching system built for a scale problem: naive linear-scan
-matching can't keep up with thousands of concurrently moving drivers and per-second ride requests
-in a city.
+<h4 align="center">Backend &amp; Frameworks</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white" />
+</p>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=nodedotjs)
-![Redis](https://img.shields.io/badge/-Redis%20GEO-black?style=flat-square&logo=redis)
-![Kafka](https://img.shields.io/badge/-Kafka-black?style=flat-square&logo=apachekafka)
-![React Native](https://img.shields.io/badge/-React%20Native-black?style=flat-square&logo=react)
+<h4 align="center">Databases</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
 
-Geohash/Quadtree spatial indexing to bucket drivers by location (O(n) &rarr; near O(log n) search)
-· Priority Queue (Min-Heap) ranking candidates by real travel time via Dijkstra/A* · Union-Find
-(DSU) to cluster high-demand requests into surge zones · sliding-window counters for real-time
-surge detection.
+<h4 align="center">AI / ML</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
 
-**Impact:** driver matches targeted in under 4s across 50,000+ concurrent drivers.
+<h4 align="center">Cloud, DevOps &amp; Tools</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+</p>
 
-</td>
-</tr>
-</table>
+<br>
 
-<p align="center"><i>More projects on the way — check back soon, or see pinned repos below.</i></p>
+## 📊 GitHub Stats
 
-<br/>
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rudellll123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudellll123&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-<h3 align="center">&lt;/&gt; ACHIEVEMENTS &lt;/&gt;</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudellll123&theme=tokyonight&hide_border=true" alt="streak stats" />
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudellll123&theme=tokyo-night&hide_border=true" />
+</p>
 
-#### 🎓 Certifications
-![Web Dev](https://img.shields.io/badge/INTERNSHALA-Web%20Development-orange?style=flat-square)
-![Cisco](https://img.shields.io/badge/CISCO-Intro%20to%20Cybersecurity-blue?style=flat-square)
-![Great Learning](https://img.shields.io/badge/GREAT%20LEARNING-Java%20Programming-red?style=flat-square)
-![AWS](https://img.shields.io/badge/AWS-Academy%20Cloud%20Foundations-orange?style=flat-square)
-![NPTEL](https://img.shields.io/badge/NPTEL%20IIT%20KGP-Intro%20to%20ML%20(Elite%2C%2061%25)-lightblue?style=flat-square)
-![Oracle](https://img.shields.io/badge/ORACLE-Foundations%20Associate%20(Agentic%20AI)-red?style=flat-square)
+<br>
 
-</td>
-<td width="50%" valign="top">
+## 🤝 Connect With Me
 
-#### 🏆 Awards
-- 🥉 **3rd Place** — Hackathon, Team Sentinel, SRM University
-- 🎯 Selected Participant — **Guidewire DevTrails**
-- 🎯 Selected Participant — **Study AI Launch Pad**
-- 🥇 **Three-Time Gold Medalist** — Football & Cricket, SRM University (2024)
-- 🏅 Participant — SRM Hackathon 8.0, SRMIST KTR Campus (2024)
+<p align="center">
+  <a href="https://linkedin.com/in/rahuljha174"><img src="https://img.shields.io/badge/-Rahul%20Jha-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rahuljha019989@gmail.com"><img src="https://img.shields.io/badge/-rahuljha019989@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
 
-</td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rudellll123&style=flat-square&color=0077B5" alt="profile views" />
+</p>
 
-<br/>
+<p align="center">
+  <sub>Proudly built with <a href="https://gprm.itsvg.in">GPRM</a></sub>
+</p>
 
-<h3 align="center">📊 GITHUB ANALYTICS 📊</h3>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical&hide_border=true" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical&hide_border=true" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=redical" width="48%" />
-
-<br/><br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true&row=1" />
-
-</div>
-
-<br/>
-
-<h3 align="center">🤝 LET'S CONNECT 🤝</h3>
-
-<p align="center">🎯 Available for full-time roles · Willing to travel domestically &amp; internationally</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B5,100:00C6FF&height=100&section=footer" />
