@@ -4,7 +4,7 @@
 
 ### 🤖 AI/ML Engineer • Full-Stack Developer
 
-🎓 B.Tech CSE @ SRM IST | CGPA: 8.13/10
+🎓 B.Tech CSE @ SRM IST 
 🚀 Building intelligent, scalable applications with AI + modern web technologies.
 
 ## 🧠 What I Build
