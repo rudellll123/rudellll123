@@ -1,36 +1,60 @@
-# Hi 👋, I'm RAHUL JHA
 
-### A passionate developer from around the world
 
-- 🔭 I'm currently working on **AI/ML Engineer | Full-Stack Developer | Computer Science Student**
+# 👋 Hi, I'm Rahul Jha
 
-- 🌱 I'm currently learning **
-🌱 I'm currently learning GraphQL and TypeScript
-🤝 I'm looking for help with System Design
-💬 Ask me about Python, React, Node.js, AI/ML, RAG, and Web Development
-**
+### 🤖 AI/ML Engineer • Full-Stack Developer
 
-- 👯 I'm looking to collaborate on **🤖 Artificial Intelligence
-Retrieval-Augmented Generation (RAG)
-Large Language Model
-Document AI
-💻 Full-Stack Development
-Flask
-FastAPI
-REST APIs
-🛠️ Programming
-Python
-C++
+🎓 B.Tech CSE @ SRM IST | CGPA: 8.13/10
+🚀 Building intelligent, scalable applications with AI + modern web technologies.
 
-**
+## 🧠 What I Build
 
-- 🤝 I'm looking for help with **learning system design**
+🤖 RAG & NLP systems • 👁️ Computer Vision • 🌐 Full-Stack Apps • ⚡ AI-powered APIs
 
-- 💬 Ask me about **Ask me about Python, React, Node.js, RAG & AI/ML**
+## 🌱 Currently
 
-- 📫 How to reach me **rahuljha019989@gmail.com**
+🔭 Building AI/ML projects
+🌱 Learning GraphQL, TypeScript & System Design
+👯 Open to meaningful open-source collaboration
 
-- ⚡ Fun fact **I think I am funny 😄**
+## 🛠️ Tech Stack
+
+`Python` `C++` `JavaScript` `SQL` `React` `FastAPI` `Flask` `RAG` `NLP` `YOLO` `OpenCV` `PostgreSQL` `Docker`
+
+## 🔥 Featured Projects
+
+📄 **Document Q&A** — RAG API with FastAPI, ChromaDB, Claude, PostgreSQL & Docker.
+🌊 **Marine Debris Detection** — YOLO + OpenCV + Flask for underwater detection.
+⚖️ **AI Legal Chatbot** — RAG + NLP with intent classification and validation.
+
+## 💼 Experience
+
+**Software Engineer Intern @ Siddharth Infosys** | Jun–Jul 2026
+Built a multilingual agricultural voice platform using Flask, Gemini, APIs & ML forecasting.
+
+## 🏆 Highlights
+
+🥇 1st Place — ISA Day Cricket, SRM Chennai
+🏆 3RD PLACE - HACKATHON (SRM UNIVERSITY)
+
+## 📊 GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME\&layout=compact\&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME\&theme=tokyonight)
+
+## 👀 Profile Visitors
+
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME\&label=Profile%20Views\&color=0e75b6\&style=flat)
+
+## 🤝 Let's Connect
+
+💻 GitHub • 💼 LinkedIn • 🚀 Open Source
+
+### ⚡ Turning ideas into intelligent products.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
