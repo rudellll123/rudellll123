@@ -10,66 +10,69 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-3ddc97?style=flat-square" />
-  <a href="mailto:rahuljha1807@gmail.com"><img src="https://img.shields.io/badge/Email-rahuljha1807-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/rahuljha174/"><img src="https://img.shields.io/badge/LinkedIn-rahuljha174-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/rudellll123"><img src="https://img.shields.io/badge/GitHub-rudellll123-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/rahuljha1807/"><img src="https://img.shields.io/badge/LeetCode-rahuljha1807-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-3ddc97?style=for-the-badge" />
+  <a href="mailto:rahuljha1807@gmail.com"><img src="https://img.shields.io/badge/Email-rahuljha1807-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/rahuljha174/"><img src="https://img.shields.io/badge/LinkedIn-rahuljha174-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/rudellll123"><img src="https://img.shields.io/badge/GitHub-rudellll123-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/rahuljha1807/"><img src="https://img.shields.io/badge/LeetCode-rahuljha1807-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+  <a href="#-tech-arsenal">Tech</a> ·
+  <a href="#-education">Education</a> ·
+  <a href="#-projects">Projects</a> ·
+  <a href="#-professional-journey">Experience</a> ·
+  <a href="#-github--leetcode-analytics">Analytics</a> ·
+  <a href="#-achievements">Achievements</a> ·
+  <a href="#-lets-connect">Contact</a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Tech Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26"> Tech Arsenal
 
 <div align="center">
 
 | | | | | |
 |:---:|:---:|:---:|:---:|:---:|
-| <img src="https://skillicons.dev/icons?i=py" width="40"><br>Python | <img src="https://skillicons.dev/icons?i=c" width="40"><br>C | <img src="https://skillicons.dev/icons?i=cpp" width="40"><br>C++ | <img src="https://skillicons.dev/icons?i=js" width="40"><br>JavaScript | <img src="https://skillicons.dev/icons?i=react" width="40"><br>React |
-| <img src="https://skillicons.dev/icons?i=nodejs" width="40"><br>Node.js | <img src="https://skillicons.dev/icons?i=fastapi" width="40"><br>FastAPI | <img src="https://skillicons.dev/icons?i=flask" width="40"><br>Flask | <img src="https://skillicons.dev/icons?i=postgres" width="40"><br>PostgreSQL | <img src="https://skillicons.dev/icons?i=mysql" width="40"><br>MySQL |
-| <img src="https://skillicons.dev/icons?i=mongodb" width="40"><br>MongoDB | <img src="https://skillicons.dev/icons?i=neo4j" width="40"><br>Neo4j | <img src="https://skillicons.dev/icons?i=docker" width="40"><br>Docker | <img src="https://skillicons.dev/icons?i=aws" width="40"><br>AWS | <img src="https://skillicons.dev/icons?i=gcp" width="40"><br>GCP |
-| <img src="https://skillicons.dev/icons?i=pytorch" width="40"><br>PyTorch | <img src="https://skillicons.dev/icons?i=opencv" width="40"><br>OpenCV | <img src="https://skillicons.dev/icons?i=git" width="40"><br>Git | <img src="https://skillicons.dev/icons?i=firebase" width="40"><br>Firebase | <img src="https://skillicons.dev/icons?i=vscode" width="40"><br>VS Code |
+| <img src="https://skillicons.dev/icons?i=py" width="42"><br>Python | <img src="https://skillicons.dev/icons?i=c" width="42"><br>C | <img src="https://skillicons.dev/icons?i=cpp" width="42"><br>C++ | <img src="https://skillicons.dev/icons?i=js" width="42"><br>JavaScript | <img src="https://skillicons.dev/icons?i=react" width="42"><br>React |
+| <img src="https://skillicons.dev/icons?i=nodejs" width="42"><br>Node.js | <img src="https://skillicons.dev/icons?i=fastapi" width="42"><br>FastAPI | <img src="https://skillicons.dev/icons?i=flask" width="42"><br>Flask | <img src="https://skillicons.dev/icons?i=postgres" width="42"><br>PostgreSQL | <img src="https://skillicons.dev/icons?i=mysql" width="42"><br>MySQL |
+| <img src="https://skillicons.dev/icons?i=mongodb" width="42"><br>MongoDB | <img src="https://skillicons.dev/icons?i=neo4j" width="42"><br>Neo4j | <img src="https://skillicons.dev/icons?i=docker" width="42"><br>Docker | <img src="https://skillicons.dev/icons?i=aws" width="42"><br>AWS | <img src="https://skillicons.dev/icons?i=gcp" width="42"><br>GCP |
+| <img src="https://skillicons.dev/icons?i=pytorch" width="42"><br>PyTorch | <img src="https://skillicons.dev/icons?i=opencv" width="42"><br>OpenCV | <img src="https://skillicons.dev/icons?i=git" width="42"><br>Git | <img src="https://skillicons.dev/icons?i=firebase" width="42"><br>Firebase | <img src="https://skillicons.dev/icons?i=vscode" width="42"><br>VS Code |
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/YOLO-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/ByteTrack-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/DeepFace-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/RAG-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/ChromaDB-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/LLM%20Evaluation-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-black?style=flat-square" />
-  <img src="https://img.shields.io/badge/Gemini%20API-black?style=flat-square" />
+  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ByteTrack-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/DeepFace-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-8957e5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ChromaDB-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Evaluation-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
 
 ## 🎓 Education
 
-**SRM Institute of Science and Technology** — Chennai, India
-B.Tech, Computer Science and Engineering · CGPA 8.13/10.0 · 2023 – 2027
+🎓 **SRM Institute of Science and Technology** — Chennai, India
+B.Tech, Computer Science and Engineering · 2023 – 2027
 
-**Trinity International College** — Dillibazar, Kathmandu
-Class XII, NEB · GPA 3.50/4.00 (87.5%) · 2021 – 2023
+🏫 **Trinity International College** — Dillibazar, Kathmandu
+Class XII, NEB · 2021 – 2023
 
-**Janta School** — Lalitpur, Nepal
-Class X, SEE · GPA 3.80/4.00 (95.0%) · 2021
+✏️ **Janta School** — Lalitpur, Nepal
+Class X, SEE · 2021
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
 
 <h2 align="center">🚀 Projects</h2>
 
 <!-- ===================== PROJECT 1 ===================== -->
-
-### <img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22120%22%20height%3D%2226%22%3E%3Crect%20width%3D%22120%22%20height%3D%2226%22%20rx%3D%225%22%20fill%3D%22%230d1117%22/%3E%3Ccircle%20cx%3D%2216%22%20cy%3D%2213%22%20r%3D%225%22%20fill%3D%22%2339ff14%22%3E%3Canimate%20attributeName%3D%22opacity%22%20values%3D%221%3B0.15%3B1%22%20dur%3D%221.1s%22%20repeatCount%3D%22indefinite%22/%3E%3C/circle%3E%3Ctext%20x%3D%2228%22%20y%3D%2217%22%20font-family%3D%22Verdana%2CArial%22%20font-size%3D%2211%22%20fill%3D%22%2339ff14%22%20font-weight%3D%22bold%22%3ELIVE%3C/text%3E%3C/svg%3E" valign="middle"> &nbsp;01 · AI Smart Surveillance & Construction Safety Incident Detection
+### 01 · AI Smart Surveillance & Construction Safety Incident Detection &nbsp;<img src="https://img.shields.io/badge/●%20LIVE-39ff14?style=for-the-badge&labelColor=0d1117" valign="middle">
 
 <table>
 <tr><td>
@@ -99,8 +102,7 @@ Real-time PPE, personnel, and vehicle detection system for construction-site saf
 </table>
 
 <!-- ===================== PROJECT 2 ===================== -->
-
-### <img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22120%22%20height%3D%2226%22%3E%3Crect%20width%3D%22120%22%20height%3D%2226%22%20rx%3D%225%22%20fill%3D%22%230d1117%22/%3E%3Ccircle%20cx%3D%2216%22%20cy%3D%2213%22%20r%3D%225%22%20fill%3D%22%2339ff14%22%3E%3Canimate%20attributeName%3D%22opacity%22%20values%3D%221%3B0.15%3B1%22%20dur%3D%221.1s%22%20repeatCount%3D%22indefinite%22/%3E%3C/circle%3E%3Ctext%20x%3D%2228%22%20y%3D%2217%22%20font-family%3D%22Verdana%2CArial%22%20font-size%3D%2211%22%20fill%3D%22%2339ff14%22%20font-weight%3D%22bold%22%3ELIVE%3C/text%3E%3C/svg%3E" valign="middle"> &nbsp;02 · Document Q&A — RAG-Based API
+### 02 · Document Q&A — RAG-Based API &nbsp;<img src="https://img.shields.io/badge/●%20LIVE-39ff14?style=for-the-badge&labelColor=0d1117" valign="middle">
 
 <table>
 <tr><td>
@@ -130,8 +132,7 @@ API that grounds AI-generated answers strictly in uploaded document content, red
 </table>
 
 <!-- ===================== PROJECT 3 ===================== -->
-
-### <img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22120%22%20height%3D%2226%22%3E%3Crect%20width%3D%22120%22%20height%3D%2226%22%20rx%3D%225%22%20fill%3D%22%230d1117%22/%3E%3Ccircle%20cx%3D%2216%22%20cy%3D%2213%22%20r%3D%225%22%20fill%3D%22%2339ff14%22%3E%3Canimate%20attributeName%3D%22opacity%22%20values%3D%221%3B0.15%3B1%22%20dur%3D%221.1s%22%20repeatCount%3D%22indefinite%22/%3E%3C/circle%3E%3Ctext%20x%3D%2228%22%20y%3D%2217%22%20font-family%3D%22Verdana%2CArial%22%20font-size%3D%2211%22%20fill%3D%22%2339ff14%22%20font-weight%3D%22bold%22%3ELIVE%3C/text%3E%3C/svg%3E" valign="middle"> &nbsp;03 · AAVA — AI Agricultural Voice Assistant
+### 03 · AAVA — AI Agricultural Voice Assistant &nbsp;<img src="https://img.shields.io/badge/●%20LIVE-39ff14?style=for-the-badge&labelColor=0d1117" valign="middle">
 
 <table>
 <tr><td>
@@ -160,8 +161,7 @@ Channel-agnostic voice assistant (web dashboard, Twilio phone/IVR, local mic dem
 </table>
 
 <!-- ===================== PROJECT 4 ===================== -->
-
-### <img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22150%22%20height%3D%2226%22%3E%3Crect%20width%3D%22150%22%20height%3D%2226%22%20rx%3D%225%22%20fill%3D%22%230d1117%22/%3E%3Ccircle%20cx%3D%2216%22%20cy%3D%2213%22%20r%3D%225%22%20fill%3D%22%23ffcc00%22%3E%3Canimate%20attributeName%3D%22opacity%22%20values%3D%221%3B0.15%3B1%22%20dur%3D%221.1s%22%20repeatCount%3D%22indefinite%22/%3E%3C/circle%3E%3Ctext%20x%3D%2228%22%20y%3D%2217%22%20font-family%3D%22Verdana%2CArial%22%20font-size%3D%2211%22%20fill%3D%22%23ffcc00%22%20font-weight%3D%22bold%22%3EIN%20PROGRESS%3C/text%3E%3C/svg%3E" valign="middle"> &nbsp;04 · AegisAI — Multimodal AI Investigation Platform
+### 04 · AegisAI — Multimodal AI Investigation Platform &nbsp;<img src="https://img.shields.io/badge/⏳%20IN%20PROGRESS-ffcc00?style=for-the-badge&labelColor=0d1117" valign="middle">
 
 <table>
 <tr><td>
@@ -192,25 +192,23 @@ My flagship agentic AI project — ties my existing computer vision, RAG, and ba
 </td></tr>
 </table>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Professional Journey
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26"> Professional Journey
 
 **🏢 Siddharth Infosys** *(Remote)*
 **Software Engineer Intern**
 📅 Jun 2026 – Jul 2026
+
 - Architected AAVA, a multilingual, channel-agnostic voice assistant for farmers (web, Twilio IVR, and local mic demo)
 - Cut market-price data retrieval from 10+ seconds to under 0.4 seconds with in-memory caching over the Agmarknet API
 - Integrated Gemini 2.0 Flash for intent/entity extraction plus a rule-based fallback NLU, and built a linear-regression trend-forecasting engine
+
 **Stack:** `Python` `Flask` `Gemini API` `Twilio` `gTTS` `Agmarknet API` `OpenWeatherMap API`
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
 
-## <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> GitHub & LeetCode Analytics
+## <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> GitHub & LeetCode Analytics
 
 <div align="center">
 
@@ -232,11 +230,9 @@ My flagship agentic AI project — ties my existing computer vision, RAG, and ba
 📊 <b>LeetCode:</b> <a href="https://leetcode.com/u/rahuljha1807/">rahuljha1807</a> — 22+ problems solved across <b>C++ (14)</b>, <b>Java (4)</b>, and <b>MySQL (4)</b>, spanning Arrays, Two Pointers, Binary Search, Dynamic Programming, and Database tags. Card above updates live.
 </p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28"> Achievements
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="26"> Achievements
 
 **🏆 Hackathons & Recognition**
 - 3rd Place — "Code Craft Chase" Hackathon, Team Cintel, School of Computing, SRM IST (Mar 2025)
@@ -251,23 +247,19 @@ My flagship agentic AI project — ties my existing computer vision, RAG, and ba
 - Cricket Team Captain (2026)
 - President / Vice President, IT Club, Trinity International College (2021–23) — organized tech workshops and inter-college events
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
 
-## <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Daily Fuel
+## <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="26"> Daily Fuel
 
 <p align="center">
-  <img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22700%22%20height%3D%22160%22%20viewBox%3D%220%200%20700%20160%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22border%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23A855F7%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23EC4899%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2339ff14%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20x%3D%223%22%20y%3D%223%22%20width%3D%22694%22%20height%3D%22154%22%20rx%3D%2214%22%20fill%3D%22%230d1117%22%20stroke%3D%22url%28%23border%29%22%20stroke-width%3D%223%22/%3E%0A%20%20%3Ctext%20x%3D%22350%22%20y%3D%2258%22%20font-family%3D%22Fira%20Code%2C%20Consolas%2C%20monospace%22%20font-size%3D%2227%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%3E%0A%20%20%20%20%3Ctspan%20fill%3D%22%23A855F7%22%3E%22Stay%3C/tspan%3E%0A%20%20%20%20%3Ctspan%20fill%3D%22%23EC4899%22%3E%20hungry.%3C/tspan%3E%0A%20%20%20%20%3Ctspan%20fill%3D%22%2339ff14%22%3E%20Stay%3C/tspan%3E%0A%20%20%20%20%3Ctspan%20fill%3D%22%23FFCC00%22%3E%20foolish.%22%3C/tspan%3E%0A%20%20%3C/text%3E%0A%20%20%3Ctext%20x%3D%22350%22%20y%3D%2290%22%20font-family%3D%22Fira%20Code%2C%20Consolas%2C%20monospace%22%20font-size%3D%2215%22%20fill%3D%22%238b949e%22%20text-anchor%3D%22middle%22%3E%E2%80%94%20Steve%20Jobs%2C%20Stanford%20Commencement%20Address%2C%202005%3C/text%3E%0A%20%20%3Ctext%20x%3D%22350%22%20y%3D%22128%22%20font-family%3D%22Fira%20Code%2C%20Consolas%2C%20monospace%22%20font-size%3D%2215%22%20font-weight%3D%22bold%22%20fill%3D%22%2339ff14%22%20text-anchor%3D%22middle%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22opacity%22%20values%3D%221%3B0.3%3B1%22%20dur%3D%221.8s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%20%20%F0%9F%94%A5%20Fuel%20for%20every%202%20AM%20debugging%20session%20and%20every%20new%20concept%20learned%20today.%0A%20%20%3C/text%3E%0A%3C/svg%3E" alt="Stay hungry, stay foolish - Steve Jobs" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3200&pause=1200&color=A855F7&center=true&vCenter=true&width=650&height=130&lines=%22Stay+hungry.+Stay+foolish.%22+%F0%9F%9A%80;-+Steve+Jobs%2C+Stanford+2005;Fuel+for+every+2AM+debugging+session+%F0%9F%94%A5;%22Talk+is+cheap.+Show+me+the+code.%22+%F0%9F%92%BB;-+Linus+Torvalds%2C+creator+of+Linux+%F0%9F%90%A7" alt="daily fuel" />
 </p>
 
 <p align="center"><sub>Reminding myself daily: the moment you stop learning in tech is the moment you fall behind. Still hungry, still building. 🚀</sub></p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
 
-## <img src="https://media2.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> Let's Connect
+## <img src="https://media2.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="26"> Let's Connect
 
 **🎯 Open to Full-Time SDE / AI-ML roles, internships, and collaboration**
 
@@ -285,7 +277,7 @@ My flagship agentic AI project — ties my existing computer vision, RAG, and ba
 <p align="center">⭐ Star the repos you find interesting · 🤝 Always open to collaboration</p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rudellll123&label=Profile%20Views&color=A855F7&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=rudellll123&label=Profile%20Views&color=A855F7&style=for-the-badge" />
 </p>
 
 <p align="center"><sub>© 2026 Rahul Jha · Built with ⚡ and a lot of coffee</sub></p>
