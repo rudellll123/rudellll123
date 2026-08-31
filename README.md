@@ -53,13 +53,13 @@
 ## 🎓 Education
 
 **SRM Institute of Science and Technology** — Chennai, India
-B.Tech, Computer Science and Engineering · CGPA 8.13/10.0 · 2023 – 2027
+B.Tech, Computer Science and Engineering  – 2027
 
 **Trinity International College** — Dillibazar, Kathmandu
-Class XII, NEB · GPA 3.50/4.00 (87.5%) · 2021 – 2023
+Class XII, NEB  - 2021 – 2023
 
-**Janta School** — Lalitpur, Nepal
-Class X, SEE · GPA 3.80/4.00 (95.0%) · 2021
+**Janta School** — Sindhuli, Nepal
+Class X, SEE  · 2021
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
