@@ -53,13 +53,13 @@
 ## 🎓 Education
 
 **SRM Institute of Science and Technology** — Chennai, India
-B.Tech, Computer Science and Engineering  – 2027
+B.Tech, Computer Science and Engineering · CGPA 8.13/10.0 · 2023 – 2027
 
 **Trinity International College** — Dillibazar, Kathmandu
-Class XII, NEB  - 2021 – 2023
+Class XII, NEB · GPA 3.50/4.00 (87.5%) · 2021 – 2023
 
-**Janta School** — Sindhuli, Nepal
-Class X, SEE  · 2021
+**Janta School** — Lalitpur, Nepal
+Class X, SEE · GPA 3.80/4.00 (95.0%) · 2021
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
@@ -216,15 +216,15 @@ My flagship agentic AI project — ties my existing computer vision, RAG, and ba
 
 | GitHub Streak | GitHub Activity |
 |:---:|:---:|
-| <img src="https://streak-stats.demolab.com/?user=rudellll123&theme=radical&hide_border=true&background=0d1117&ring=A855F7&fire=EC4899&currStreakLabel=EC4899" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudellll123&bg_color=0d1117&color=ffffff&line=A855F7&point=EC4899&area=true&hide_border=true" /> |
+| <img src="https://streak-stats.demolab.com/?user=rudellll123&theme=radical&hide_border=true" /> | <img src="https://github-readme-activity-graph.vercel.app/graph?username=rudellll123&theme=tokyo-night&hide_border=true" /> |
 
 | Top Languages | GitHub Stats |
 |:---:|:---:|
-| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudellll123&layout=compact&theme=radical&langs_count=8" /> | <img src="https://github-readme-stats.vercel.app/api?username=rudellll123&show_icons=true&theme=radical&hide_border=true" /> |
+| <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rudellll123&layout=compact&theme=radical&langs_count=8&hide_border=true" /> | <img src="https://github-stats-extended.vercel.app/api?username=rudellll123&show_icons=true&theme=radical&hide_border=true&count_private=true" /> |
 
 | 🏆 Trophies | 📈 LeetCode |
 |:---:|:---:|
-| <img src="https://github-profile-trophy.vercel.app/?username=rudellll123&theme=darkhub&column=2&margin-w=10&margin-h=10&no-bg=true" /> | <img src="https://leetcard.jacoblin.cool/rahuljha1807?theme=dark&font=JetBrains%20Mono&ext=contest&border=0" /> |
+| <img src="https://github-profile-trophy.vercel.app/?username=rudellll123&theme=radical&column=2&margin-w=10&margin-h=10&no-frame=true" /> | <img src="https://leetcard.jacoblin.cool/rahuljha1807?theme=dark&font=JetBrains%20Mono&ext=contest" /> |
 
 </div>
 
@@ -250,6 +250,18 @@ My flagship agentic AI project — ties my existing computer vision, RAG, and ba
 - 1st Prize — Football, Cricket & Basketball, ISA Day, SRM
 - Cricket Team Captain (2026)
 - President / Vice President, IT Club, Trinity International College (2021–23) — organized tech workshops and inter-college events
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
+</p>
+
+## <img src="https://media2.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Daily Fuel
+
+<p align="center">
+  <img src="data:image/svg+xml,%3Csvg%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%20width%3D%22700%22%20height%3D%22160%22%20viewBox%3D%220%200%20700%20160%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22border%22%20x1%3D%220%25%22%20y1%3D%220%25%22%20x2%3D%22100%25%22%20y2%3D%22100%25%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23A855F7%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%2250%25%22%20stop-color%3D%22%23EC4899%22/%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2339ff14%22/%3E%0A%20%20%20%20%3C/linearGradient%3E%0A%20%20%3C/defs%3E%0A%20%20%3Crect%20x%3D%223%22%20y%3D%223%22%20width%3D%22694%22%20height%3D%22154%22%20rx%3D%2214%22%20fill%3D%22%230d1117%22%20stroke%3D%22url%28%23border%29%22%20stroke-width%3D%223%22/%3E%0A%20%20%3Ctext%20x%3D%22350%22%20y%3D%2258%22%20font-family%3D%22Fira%20Code%2C%20Consolas%2C%20monospace%22%20font-size%3D%2227%22%20font-weight%3D%22bold%22%20text-anchor%3D%22middle%22%3E%0A%20%20%20%20%3Ctspan%20fill%3D%22%23A855F7%22%3E%22Stay%3C/tspan%3E%0A%20%20%20%20%3Ctspan%20fill%3D%22%23EC4899%22%3E%20hungry.%3C/tspan%3E%0A%20%20%20%20%3Ctspan%20fill%3D%22%2339ff14%22%3E%20Stay%3C/tspan%3E%0A%20%20%20%20%3Ctspan%20fill%3D%22%23FFCC00%22%3E%20foolish.%22%3C/tspan%3E%0A%20%20%3C/text%3E%0A%20%20%3Ctext%20x%3D%22350%22%20y%3D%2290%22%20font-family%3D%22Fira%20Code%2C%20Consolas%2C%20monospace%22%20font-size%3D%2215%22%20fill%3D%22%238b949e%22%20text-anchor%3D%22middle%22%3E%E2%80%94%20Steve%20Jobs%2C%20Stanford%20Commencement%20Address%2C%202005%3C/text%3E%0A%20%20%3Ctext%20x%3D%22350%22%20y%3D%22128%22%20font-family%3D%22Fira%20Code%2C%20Consolas%2C%20monospace%22%20font-size%3D%2215%22%20font-weight%3D%22bold%22%20fill%3D%22%2339ff14%22%20text-anchor%3D%22middle%22%3E%0A%20%20%20%20%3Canimate%20attributeName%3D%22opacity%22%20values%3D%221%3B0.3%3B1%22%20dur%3D%221.8s%22%20repeatCount%3D%22indefinite%22/%3E%0A%20%20%20%20%F0%9F%94%A5%20Fuel%20for%20every%202%20AM%20debugging%20session%20and%20every%20new%20concept%20learned%20today.%0A%20%20%3C/text%3E%0A%3C/svg%3E" alt="Stay hungry, stay foolish - Steve Jobs" />
+</p>
+
+<p align="center"><sub>Reminding myself daily: the moment you stop learning in tech is the moment you fall behind. Still hungry, still building. 🚀</sub></p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
