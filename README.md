@@ -1,349 +1,550 @@
+<!-- ========================================================= -->
+
+<!--                    RAHUL JHA — PROFILE                    -->
+
+<!-- ========================================================= -->
+
+<!-- HERO BANNER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:4C1D95,70:A855F7,100:EC4899&height=230&section=header&text=Rahul%20Jha&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer%20%7C%20Agentic%20AI&descAlignY=58&descSize=18" width="100%"/>
+</p>
+
 <h1 align="center">Hi, I'm Rahul Jha 👋</h1>
 
 <h3 align="center">
-AI/ML Engineer • Backend & Full-Stack Developer • RAG • Computer Vision • Agentic AI
+🤖 AI/ML Engineer &nbsp;•&nbsp; ⚙️ Backend Developer &nbsp;•&nbsp; 🧠 RAG &nbsp;•&nbsp; 👁️ Computer Vision &nbsp;•&nbsp; 🔗 Agentic AI
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2600&pause=900&color=A855F7&width=650&center=true&vCenter=true&lines=CS+Undergraduate+%40+SRM+IST;Building+production-style+AI%2FML+systems;RAG+%7C+Computer+Vision+%7C+Agentic+AI;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;From+ML+models+to+deployed+AI+applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=17&duration=2600&pause=900&color=A855F7&width=720&center=true&vCenter=true&lines=CS+Undergraduate+%40+SRM+IST;Building+production-style+AI%2FML+systems;RAG+%7C+Computer+Vision+%7C+Agentic+AI;Python+%7C+FastAPI+%7C+React+%7C+PostgreSQL;Turning+AI+ideas+into+working+systems+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <b>CS undergraduate building production-oriented AI/ML and backend systems</b><br>
-  with Python, FastAPI, RAG, Computer Vision, Agentic AI, PostgreSQL, and modern deployment workflows.
+  <b>🎓 CS Undergraduate • 🧠 AI/ML Builder • 💻 Software Engineer in Progress</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-39ff14?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%2B%20Backend-A855F7?style=for-the-badge&labelColor=0d1117" />
+  <i>Building systems that don't just demonstrate AI — they put it to work.</i> ⚡
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🟢%20Open%20to%20Opportunities-39ff14?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🎯%20Focus-AI%20%2B%20Backend-A855F7?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🚀%20Building-Production%20AI%20Systems-EC4899?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 <p align="center">
   <a href="mailto:rahuljha1807@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rahuljha1807-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/📧%20Email-rahuljha1807-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/rahuljha174/">
-    <img src="https://img.shields.io/badge/LinkedIn-rahuljha174-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/💼%20LinkedIn-rahuljha174-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/rudellll123">
-    <img src="https://img.shields.io/badge/GitHub-rudellll123-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20GitHub-rudellll123-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/rahuljha1807/">
-    <img src="https://img.shields.io/badge/LeetCode-rahuljha1807-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/🧩%20LeetCode-rahuljha1807-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
+<br>
+
 <p align="center">
-  <a href="#-about-me">About</a> ·
-  <a href="#-tech-stack">Tech Stack</a> ·
-  <a href="#-featured-projects">Projects</a> ·
-  <a href="#-experience">Experience</a> ·
-  <a href="#-education">Education</a> ·
-  <a href="#-achievements">Achievements</a> ·
-  <a href="#-github--leetcode">Analytics</a> ·
-  <a href="#-lets-connect">Contact</a>
+  <a href="#-about-me">👨‍💻 About</a> •
+  <a href="#-tech-stack">🛠️ Tech</a> •
+  <a href="#-featured-projects">🚀 Projects</a> •
+  <a href="#-experience">💼 Experience</a> •
+  <a href="#-education">🎓 Education</a> •
+  <a href="#-achievements">🏆 Achievements</a> •
+  <a href="#-github--leetcode">📊 Analytics</a> •
+  <a href="#-lets-connect">🤝 Contact</a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
 
-## 🧠 About Me
+<!-- ========================================================= -->
+
+<!--                       ABOUT ME                            -->
+
+<!-- ========================================================= -->
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%">
+
+### 🧠 What I Build
+
+I'm a Computer Science undergraduate at **SRM Institute of Science and Technology** focused on building practical AI/ML and software systems.
+
+My work sits at the intersection of:
+
+🤖 **Artificial Intelligence**
+🔎 **Retrieval-Augmented Generation**
+👁️ **Computer Vision**
+🔗 **Agentic AI**
+⚙️ **Backend Engineering**
+🗄️ **Data & Databases**
+🚀 **Deployment & Infrastructure**
+
+I enjoy taking an idea from:
+
+**💡 Concept → 🧪 Experiment → 🏗️ Build → 📊 Evaluate → 🚀 Deploy**
+
+</td>
+
+<td width="40%">
 
 ```text
-🎓 B.Tech Computer Science & Engineering @ SRM Institute of Science and Technology
-🤖 Interested in AI/ML Engineering, RAG, Computer Vision & Agentic Systems
-⚙️ Build APIs and backend systems with Python, FastAPI & PostgreSQL
-🔎 Work with retrieval, embeddings, LLMs, computer vision and evaluation
-🚀 Focus on turning ML prototypes into usable, containerized applications
-📚 Currently strengthening DSA, SQL, system design and production AI engineering
+╭─────────────────────────────╮
+│       CURRENT MISSION       │
+├─────────────────────────────┤
+│ 🤖 AI Engineering           │
+│ 🔎 RAG & LLM Systems        │
+│ 🔗 Agentic AI               │
+│ 👁️ Computer Vision          │
+│ ⚙️ Backend Engineering      │
+│ 🧩 DSA & Problem Solving   │
+│ 🗄️ SQL & System Design     │
+│ 🚀 Production Deployment   │
+╰─────────────────────────────╯
 ```
 
-My main engineering interest is the intersection of **AI and software engineering** — building systems where models are connected to reliable APIs, databases, retrieval pipelines, evaluation, monitoring, and user-facing applications.
+</td>
+</tr>
+</table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+> 🚀 **"Don't just learn the technology. Build something with it."**
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
 
-### Programming & Backend
+<!-- ========================================================= -->
+
+<!--                       TECH STACK                          -->
+
+<!-- ========================================================= -->
+
+# 🛠️ Tech Stack
+
+### 🐍 Programming & Backend
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,cpp,c,js,nodejs,fastapi,flask&perline=7" />
 </p>
 
-### Databases & Data
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Expertise%20in%20Progress-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Backend-Python%20%2B%20FastAPI-3776AB?style=for-the-badge" />
+</p>
+
+### 🗄️ Databases & Data
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,neo4j,redis&perline=5" />
 </p>
 
-### AI / ML / Computer Vision
+### 🤖 AI / ML / LLM Engineering
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=pytorch,opencv&perline=5" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG-8957E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BM25-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/YOLO-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ByteTrack-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Whisper-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/🧠%20RAG-8957E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔗%20LangGraph-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⛓️%20LangChain-1C3C3C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔍%20Qdrant-DC244C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📚%20BM25-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👁️%20YOLO-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎯%20ByteTrack-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎙️%20Whisper-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
-### Frontend & Infrastructure
+### 🌐 Frontend, DevOps & Cloud
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,html,css,docker,git,githubactions,aws,vscode&perline=8" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/🐳%20Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/🔄%20GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚡%20Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/⚙️%20Celery-37814A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📡%20OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" />
+  <img src="https://img.shields.io/badge/📈%20Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/📊%20Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
+
+<!-- ========================================================= -->
+
+<!--                       PROJECTS                            -->
+
+<!-- ========================================================= -->
 
 # 🚀 Featured Projects
 
-## 01 · AegisAI — Multimodal AI Investigation & Incident Response Platform
+> 💡 **I don't measure a project by how many technologies it uses.
+> I measure it by how much engineering I had to understand to make it work.**
+
+---
+
+# 01 · 🛡️ AegisAI
+
+<h3 align="center">Multimodal AI Investigation & Incident Response Platform</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-COMPLETED-39ff14?style=for-the-badge&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/AGENTIC%20AI-1a7f37?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/PRODUCTION%20DEPLOYED-A855F7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/✅%20COMPLETED-39ff14?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🤖%20AGENTIC%20AI-1a7f37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀%20DEPLOYED-A855F7?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <b>A multimodal AI platform for investigating incidents across documents, images, video, audio and structured data.</b>
+  <b>My flagship AI engineering project.</b><br>
+  A multimodal platform that connects documents, images, video, audio and structured data
+  into an AI-assisted incident investigation workflow.
 </p>
 
-AegisAI combines **agent orchestration, hybrid retrieval, computer vision, databases and knowledge representation** into a single investigation workflow. The system retrieves relevant evidence, analyzes multimodal inputs, connects related information, and assists in producing structured investigation reports.
+### 🧠 What It Does
 
-### 🔥 Engineering Highlights
+AegisAI combines **agent orchestration, hybrid retrieval, computer vision, databases and knowledge representation** to help investigators gather evidence, connect related information and generate structured reports for human review.
 
-* 🧠 **LangGraph Supervisor** — routes investigation tasks to specialized tools and workflows
-* 🔍 **Hybrid RAG** — combines dense vector retrieval, BM25 sparse retrieval, RRF fusion, metadata filtering and cross-encoder reranking
-* 🗄️ **Qdrant + PostgreSQL** — separates semantic evidence retrieval from structured application data
-* 🕸️ **Neo4j Knowledge Graph** — models relationships between incidents, entities and evidence
-* 👁️ **YOLO + ByteTrack + VLM** — supports object detection, tracking and higher-level scene reasoning
-* 🎙️ **Whisper + TTS** — enables speech-based investigation workflows
-* ⚙️ **FastAPI Backend** — exposes structured APIs for the application and AI workflows
-* 🔄 **Redis + Celery** — supports asynchronous/background processing
-* 🐳 **Dockerized Architecture** — reproducible development and deployment environment
-* 🚀 **CI/CD** — automated build and deployment workflow through GitHub Actions
-* 📊 **Evaluation & Observability** — RAG evaluation, agent evaluation, tracing and monitoring
-* 👤 **Human-in-the-loop** — AI assists investigation and report generation while final review remains with a human
+### ⚙️ Engineering Highlights
 
-### 🧩 Architecture
+| Component                  | Implementation                                                |
+| :------------------------- | :------------------------------------------------------------ |
+| 🧠 **Agent Orchestration** | LangGraph Supervisor + specialized AI workflows               |
+| 🔎 **Hybrid RAG**          | Dense retrieval + BM25 + RRF + metadata filtering + reranking |
+| 🗃️ **Vector Search**      | Qdrant                                                        |
+| 🕸️ **Knowledge Graph**    | Neo4j + Cypher                                                |
+| 👁️ **Computer Vision**    | YOLO + ByteTrack + VLM reasoning                              |
+| 🎙️ **Audio Intelligence** | Whisper + TTS                                                 |
+| 🗄️ **Structured Data**    | PostgreSQL                                                    |
+| ⚡ **Background Jobs**      | Redis + Celery                                                |
+| 🌐 **API Layer**           | FastAPI                                                       |
+| 🐳 **Containerization**    | Docker                                                        |
+| 🔄 **CI/CD**               | GitHub Actions                                                |
+| 📊 **Evaluation**          | RAG + agent/tool evaluation                                   |
+| 📡 **Observability**       | OpenTelemetry + Prometheus + Grafana                          |
+| 👤 **Safety**              | Human-in-the-loop approval                                    |
+
+### 🏗️ Architecture
 
 ```text
-                         ┌─────────────────────┐
-                         │   React Frontend    │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                         ┌─────────────────────┐
-                         │     FastAPI API     │
-                         └──────────┬──────────┘
-                                    │
-                                    ▼
-                    ┌──────────────────────────────┐
-                    │    LangGraph Supervisor      │
-                    └──────────────┬───────────────┘
-                                   │
-              ┌────────────────────┼────────────────────┐
-              │                    │                    │
-              ▼                    ▼                    ▼
-        ┌──────────┐         ┌──────────┐         ┌──────────┐
-        │ RAG      │         │ Vision   │         │ Data     │
-        │ Agent    │         │ Agent    │         │ Agent    │
-        └────┬─────┘         └────┬─────┘         └────┬─────┘
-             │                    │                    │
-             ▼                    ▼                    ▼
-        Qdrant/BM25          YOLO/ByteTrack       PostgreSQL
-        + Reranker                + VLM
-             │
-             └──────────────┬──────────────┐
-                            │              │
-                            ▼              ▼
-                      ┌──────────┐   ┌──────────┐
-                      │Knowledge │   │  Audio   │
-                      │  Agent   │   │  Agent   │
-                      └────┬─────┘   └────┬─────┘
-                           │              │
-                           ▼              ▼
-                         Neo4j        Whisper/TTS
-                           │              │
-                           └──────┬───────┘
-                                  ▼
-                         ┌─────────────────┐
-                         │  Report Agent   │
-                         └────────┬────────┘
-                                  ▼
-                         ┌─────────────────┐
-                         │ Human Approval  │
-                         └─────────────────┘
+                           👤 INVESTIGATOR
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │   React Frontend  │
+                       └─────────┬─────────┘
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │    FastAPI API    │
+                       └─────────┬─────────┘
+                                 │
+                                 ▼
+                 ┌───────────────────────────────┐
+                 │      🧠 LangGraph Supervisor  │
+                 └───────────────┬───────────────┘
+                                 │
+          ┌──────────────┬───────┼────────┬──────────────┐
+          ▼              ▼       ▼        ▼              ▼
+      🔎 RAG Agent   👁️ Vision  🗄️ Data  🕸️ Knowledge  🎙️ Audio
+          │              │       │        │              │
+          ▼              ▼       ▼        ▼              ▼
+      Qdrant/BM25     YOLO +   PostgreSQL Neo4j       Whisper
+      + Reranker     ByteTrack                          + TTS
+          │              │       │        │              │
+          └──────────────┴───────┴────────┴──────────────┘
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │  📄 Report Agent  │
+                       └─────────┬─────────┘
+                                 │
+                                 ▼
+                       ┌───────────────────┐
+                       │ 👤 Human Approval │
+                       └───────────────────┘
 ```
+
+### 🔗 Explore AegisAI
 
 <p align="center">
   <a href="https://github.com/rudellll123/aegis-ai">
-    <img src="https://img.shields.io/badge/🔗%20VIEW%20REPOSITORY-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://aegis-ai-b3k8.onrender.com">
-    <img src="https://img.shields.io/badge/🚀%20LIVE%20DEPLOYMENT-39ff14?style=for-the-badge&logo=render&logoColor=black" />
+    <img src="https://img.shields.io/badge/🚀%20LIVE%20APPLICATION-39ff14?style=for-the-badge&logo=render&logoColor=black" />
   </a>
 </p>
 
 ---
 
-## 02 · AI Smart Surveillance & Construction Safety
+# 02 · 👁️ AI Smart Surveillance & Construction Safety
 
 <p align="center">
-  <img src="https://img.shields.io/badge/COMPUTER%20VISION-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LIVE-39ff14?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🧠%20COMPUTER%20VISION-1f6feb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟢%20LIVE-39ff14?style=for-the-badge&labelColor=0d1117" />
 </p>
 
 Real-time construction-site safety monitoring system using computer vision to detect personnel, PPE violations and vehicles.
 
-### Key Work
+### 📈 Highlights
 
-* 📈 Improved detection performance from **41.1% → 70% mAP@50**
-* 🎯 Achieved approximately **75% precision and 65% recall**
-* 👁️ Trained and iterated a **YOLO26n** model across 25 classes
-* 🔄 Implemented **ByteTrack** for multi-object tracking
+* 🎯 Improved detection performance from **41.1% → 70% mAP@50**
+* 📊 Achieved approximately **75% precision and 65% recall**
+* 🧠 Trained and iterated a **YOLO26n** model across 25 classes
+* 🔄 Implemented **ByteTrack** multi-object tracking
 * ⚡ Achieved **sub-10ms inference latency**
-* 🚨 Added automated incident detection and timestamped evidence capture
-* 🖥️ Built a **React + FastAPI + PostgreSQL** dashboard
-* 🐳 Containerized the application using Docker
+* 🚨 Automated incident detection and timestamped evidence capture
+* 🖥️ Built **React + FastAPI + PostgreSQL** dashboard
+* 🐳 Containerized using Docker
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/YOLO26n-black?style=flat-square" />
-<img src="https://img.shields.io/badge/ByteTrack-black?style=flat-square" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+**Stack:** `Python` `YOLO26n` `ByteTrack` `FastAPI` `React` `PostgreSQL` `Docker`
 
 ---
 
-## 03 · Document Q&A — RAG-Based AI API
+# 03 · 📚 Document Q&A — RAG-Based AI API
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RAG%20%2F%20LLM-8957e5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LIVE-39ff14?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🔎%20RAG%20%2F%20LLM-8957E5?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟢%20LIVE-39ff14?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-Document-grounded question-answering API designed to generate responses using retrieved document context instead of relying solely on an LLM's parametric knowledge.
+Document-grounded question-answering API designed around retrieval-based context before LLM generation.
 
-### Key Work
+### 🔥 Highlights
 
-* 🧩 Implemented document ingestion and chunking pipeline
-* 🔎 Generated embeddings using **sentence-transformers**
-* 🗃️ Implemented vector retrieval using **ChromaDB**
-* 🤖 Integrated **Anthropic Claude API** for answer generation
-* 🔐 Implemented **JWT authentication and bcrypt password hashing**
-* 👤 Added per-user data isolation
-* 🐳 Containerized FastAPI + PostgreSQL with Docker Compose
+* 📄 Document ingestion and intelligent chunking
+* 🧠 Sentence-transformer embeddings
+* 🔎 ChromaDB vector retrieval
+* 🤖 Anthropic Claude API integration
+* 🔐 JWT authentication
+* 🔒 bcrypt password hashing
+* 👤 Per-user data isolation
+* 🐳 Docker Compose deployment
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-black?style=flat-square" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Claude%20API-D97757?style=flat-square" />
-<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-</p>
+**Stack:** `Python` `FastAPI` `PostgreSQL` `ChromaDB` `Sentence Transformers` `Claude API` `JWT` `Docker`
 
 ---
 
-## 04 · AAVA — AI Agricultural Voice Assistant
+# 04 · 🌾 AAVA — AI Agricultural Voice Assistant
 
 <p align="center">
-  <img src="https://img.shields.io/badge/VOICE%20AI-e8590c?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LIVE-39ff14?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/🎙️%20VOICE%20AI-e8590c?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🟢%20LIVE-39ff14?style=for-the-badge&labelColor=0d1117" />
 </p>
 
-Multilingual voice assistant developed during my internship at **Siddharth Infosys**, allowing farmers to query market prices, trends and weather information through web, phone/IVR and local microphone interfaces.
+Multilingual agricultural voice assistant developed during my internship at **Siddharth Infosys**.
 
-### Key Work
+Farmers can interact through web, phone/IVR and local microphone interfaces to ask about market prices, trends and weather.
 
-* ⚡ Reduced market-price retrieval from **10+ seconds to <0.4 seconds** using in-memory caching
-* 🗣️ Integrated **Gemini 2.0 Flash** for intent and entity extraction
-* 🔁 Implemented rule-based fallback NLU
-* 📊 Built linear-regression based market trend forecasting
-* ☁️ Integrated weather information through OpenWeatherMap
-* 📞 Added Twilio-based voice interaction
-* 🌐 Supported Hindi, Marathi and English workflows
+### ⚡ Highlights
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/Flask-black?style=flat-square&logo=flask&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" />
-<img src="https://img.shields.io/badge/gTTS-black?style=flat-square" />
-<img src="https://img.shields.io/badge/Agmarknet%20API-black?style=flat-square" />
-<img src="https://img.shields.io/badge/OpenWeatherMap-EB6E4B?style=flat-square" />
-</p>
+* 🚀 Reduced market-price retrieval from **10+ seconds to <0.4 seconds**
+* 🧠 Gemini 2.0 Flash for intent/entity extraction
+* 🔁 Rule-based fallback NLU
+* 📈 Linear-regression market trend forecasting
+* ☁️ OpenWeatherMap integration
+* 📞 Twilio voice interaction
+* 🌐 Hindi + Marathi + English support
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+**Stack:** `Python` `Flask` `Gemini API` `Twilio` `gTTS` `Agmarknet API` `OpenWeatherMap`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
+
+<!-- ========================================================= -->
+
+<!--                       EXPERIENCE                          -->
+
+<!-- ========================================================= -->
 
 # 💼 Experience
 
 ## 🏢 Siddharth Infosys
 
 **Software Engineer Intern · Remote**
-**Jun 2026 – Jul 2026**
+📅 **Jun 2026 – Jul 2026**
 
-* Architected **AAVA**, a multilingual, channel-agnostic agricultural voice assistant.
-* Built integrations across web, Twilio IVR and local microphone interfaces.
-* Reduced market-price API retrieval latency from **10+ seconds to under 0.4 seconds** using in-memory caching.
-* Integrated Gemini 2.0 Flash for intent/entity extraction with rule-based fallback NLU.
-* Developed a linear-regression based market-trend forecasting component.
+> 🌾 Built AI-powered software focused on voice interaction, agricultural data and intelligent information retrieval.
+
+### 🚀 Contributions
+
+* 🏗️ Architected **AAVA**, a multilingual channel-agnostic agricultural voice assistant.
+* 📞 Built integrations across web, Twilio IVR and local microphone interfaces.
+* ⚡ Reduced market-price retrieval latency from **10+ seconds to under 0.4 seconds** using in-memory caching.
+* 🤖 Integrated Gemini 2.0 Flash for intent/entity extraction.
+* 🔁 Implemented rule-based fallback NLU.
+* 📊 Developed a linear-regression based market-trend forecasting component.
 
 **Technologies:** `Python` `Flask` `Gemini API` `Twilio` `gTTS` `Agmarknet API` `OpenWeatherMap`
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
+
+<!-- ========================================================= -->
+
+<!--                       EDUCATION                           -->
+
+<!-- ========================================================= -->
 
 # 🎓 Education
 
-### SRM Institute of Science and Technology — Chennai, India
+### 🏫 SRM Institute of Science and Technology
 
 **B.Tech — Computer Science and Engineering**
-**2023 – 2027**
+📍 Chennai, India
+📅 **2023 – 2027**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
+
+<!-- ========================================================= -->
+
+<!--                      ACHIEVEMENTS                         -->
+
+<!-- ========================================================= -->
 
 # 🏆 Achievements
 
 ### 💻 Hackathons & Recognition
 
-* 🥉 **3rd Place — Code Craft Chase Hackathon**, Team Cintel, School of Computing, SRM IST — Mar 2025
+* 🥉 **3rd Place — Code Craft Chase Hackathon**
+  Team Cintel · School of Computing · SRM IST · Mar 2025
+
 * 🚀 **Selected Participant — Guidewire DevTrails**
+
 * 🤖 **Selected Participant — Study AI Launch Pad**
 
 ### 🎓 Certifications
 
-* **Oracle Certified Foundations Associate – Agentic AI** — Oracle, Aug 2026
-* **Web Development Training** — Internshala, Jan 2025
+* 🧠 **Oracle Certified Foundations Associate – Agentic AI**
+  Oracle · Aug 2026
+
+* 🌐 **Web Development Training**
+  Internshala · Jan 2025
 
 ### 🏅 Leadership & Sports
 
 * 🏆 **1st Prize — Football, Cricket & Basketball**, ISA Day, SRM
 * 🏏 **Cricket Team Captain — 2026**
-* 👨‍💻 **President / Vice President — IT Club**, Trinity International College — 2021–2023
-* Organized technical workshops and inter-college events
+* 👨‍💻 **President / Vice President — IT Club**, Trinity International College · 2021–2023
+* 🎤 Organized technical workshops and inter-college events
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
+
+<!-- ========================================================= -->
+
+<!--                     CURRENT FOCUS                         -->
+
+<!-- ========================================================= -->
+
+# 🎯 Currently Building
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖
+
+**AI Engineering**
+
+RAG
+LLM Applications
+Agentic AI
+Multimodal AI
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**Backend**
+
+Python
+FastAPI
+REST APIs
+PostgreSQL
+
+</td>
+
+<td align="center" width="25%">
+
+### 🧩
+
+**Engineering**
+
+DSA
+SQL
+System Design
+Testing
+
+</td>
+
+<td align="center" width="25%">
+
+### 🚀
+
+**Production**
+
+Docker
+CI/CD
+Observability
+Deployment
+
+</td>
+</tr>
+</table>
+
+> 🔥 **Learn deeply. Build relentlessly. Ship consistently. Improve continuously.**
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
+
+<!-- ========================================================= -->
+
+<!--                   ENGINEERING PHILOSOPHY                  -->
+
+<!-- ========================================================= -->
+
+# ⚡ Engineering Philosophy
+
+<p align="center">
+
+### 💡 Learn → 🧪 Experiment → 🏗️ Build → 📊 Measure → 🔍 Debug → 🚀 Deploy → 🔄 Improve
+
+</p>
+
+<p align="center">
+  <i>
+    "Every bug is a lesson. Every project is a laboratory.
+    Every deployment is a step forward."
+  </i>
+</p>
+
+<p align="center">
+  🚀 <b>Stay curious.</b> &nbsp; 
+  🧠 <b>Keep learning.</b> &nbsp;
+  💻 <b>Keep building.</b> &nbsp;
+  🔥 <b>Never stop improving.</b>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
+
+<!-- ========================================================= -->
+
+<!--                  GITHUB ANALYTICS                         -->
+
+<!-- ========================================================= -->
 
 # 📊 GitHub & LeetCode
 
@@ -353,11 +554,11 @@ Multilingual voice assistant developed during my internship at **Siddharth Infos
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudellll123&layout=compact&theme=radical&hide_border=true&langs_count=8" />
 
-<br>
+<br><br>
 
 <img src="https://streak-stats.demolab.com/?user=rudellll123&theme=radical&hide_border=true" />
 
-<br>
+<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=rudellll123&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" />
 
@@ -367,86 +568,52 @@ Multilingual voice assistant developed during my internship at **Siddharth Infos
 
 <p align="center">
   <a href="https://leetcode.com/u/rahuljha1807/">
-    <img src="https://img.shields.io/badge/LeetCode-rahuljha1807-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/🧩%20LeetCode-rahuljha1807-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  Practicing <b>DSA, SQL and problem solving</b> with a focus on interview-oriented fundamentals.
+  Practicing <b>DSA, SQL and problem solving</b> with an interview-oriented approach.
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:39ff14,50:A855F7,100:EC4899&height=3&width=100%25" width="100%">
 
-# 🎯 Current Focus
+<!-- ========================================================= -->
 
-```text
-AI Engineering
-├── RAG & Retrieval Systems
-├── LLM Applications
-├── Agentic AI & Tool Calling
-├── Multimodal AI
-└── LLM Evaluation
+<!--                       CONNECT                             -->
 
-Software Engineering
-├── Python & FastAPI
-├── SQL & Database Design
-├── DSA & Problem Solving
-├── REST APIs
-├── Docker & CI/CD
-└── System Design
-
-Computer Vision
-├── Object Detection
-├── Multi-Object Tracking
-├── Video Analytics
-└── Vision-Language Models
-```
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
-
-# ⚡ Engineering Philosophy
-
-<p align="center">
-  <b>Build → Measure → Evaluate → Deploy → Improve</b>
-</p>
-
-<p align="center">
-  I enjoy turning ideas into working systems — from model experimentation and retrieval pipelines
-  to APIs, databases, dashboards, containers and deployment.
-</p>
-
-<p align="center">
-  <i>"The goal isn't just to build an AI model. It's to build a system that people can actually use."</i>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:A855F7,50:EC4899,100:39ff14&height=3&width=100%25" width="100%">
+<!-- ========================================================= -->
 
 # 🤝 Let's Connect
 
 <p align="center">
-  <b>Open to Full-Time SDE / AI-ML roles, internships, and technical collaborations.</b>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Open+to+Full-Time+SDE+%26+AI%2FML+Roles;Open+to+Internships+%26+Technical+Collaboration;Let's+build+something+useful+%F0%9F%9A%80" />
+</p>
+
+<p align="center">
+  <b>🎯 Open to Full-Time SDE / AI-ML roles, internships, and technical collaborations.</b>
 </p>
 
 <p align="center">
   <a href="mailto:rahuljha1807@gmail.com">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Gmail-Dark.svg" width="52" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/rahuljha174/">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" width="52" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/rudellll123">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" width="52" />
   </a>
-  &nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://leetcode.com/u/rahuljha1807/">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" width="30" style="background-color:#1a1a1a;border-radius:8px;padding:11px;" />
   </a>
 </p>
 
 <p align="center">
-  🌍 Chennai, India · Open to relocation
+  🌍 <b>Chennai, India</b> &nbsp;•&nbsp; 🚀 <b>Open to Relocation</b>
 </p>
 
 <br>
@@ -460,10 +627,18 @@ Computer Vision
 </p>
 
 <p align="center">
-  ⭐ Star the repositories you find interesting · 🤝 Open to collaboration
+  ⭐ <b>Explore the repositories</b> &nbsp;•&nbsp;
+  🤝 <b>Let's collaborate</b> &nbsp;•&nbsp;
+  💡 <b>Let's build</b>
+</p>
+
+<!-- FOOTER -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:EC4899,40:A855F7,70:4C1D95,100:0D1117&height=140&section=footer" width="100%"/>
 </p>
 
 <p align="center">
-  <sub>© 2026 Rahul Jha · Built with ⚡, curiosity and a lot of debugging</sub>
+  <sub>© 2026 Rahul Jha • Built with ⚡ curiosity, 🧠 learning, 💻 code and ☕ coffee</sub>
 </p>
 
